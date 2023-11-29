@@ -1,4 +1,4 @@
-print ('''Here i have wrote a simple Caesar Cipher that will Encrypt and  
+print ('''This program is a simple Caesar Cipher that will Encrypt and  
 Decrypt a message, there is also an option for the user to learn how a 
 Caesar Cipher works and also learn some history about the Cipher''')
 
